@@ -21,4 +21,6 @@ $ sudo docker build -t php_slim_framework:<tag/version> ./
 ```
 $ sudo docker run -d -p 8000:80 mmahrach/php_slim_framework:1.0
 ```
+### App Test ###
+http://localhost:8000/
 
