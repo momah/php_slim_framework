@@ -1,6 +1,6 @@
 ### php_slim_framework ###
 
- Docker image to create a simple Api Restfull using the Slim 3 micro-framework for PHP
+ Docker image to create a Api Restfull PHP web aplication using the Slim 3 micro-framework.
 
 ### pull php_slim_framework from : https://hub.docker.com/r/mmahrach/php_slim_framework/ ###
 ```
