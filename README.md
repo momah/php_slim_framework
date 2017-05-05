@@ -4,7 +4,7 @@
 
 ### pull php_slim_framework from : https://hub.docker.com/r/mmahrach/php_slim_framework/ ###
 ```
-$ docker pull mmahrach/php_slim_framework
+$ sudo docker pull mmahrach/php_slim_framework:1.0
 ```
 
 ### Import the dockerfile ###
